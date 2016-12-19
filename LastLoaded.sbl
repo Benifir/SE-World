@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_LastLoadedTimes xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastLoaded>
+    <dictionary>
+      <item>
+        <Key xsi:type="xsd:string">C:\Users\ben\AppData\Roaming\SpaceEngineers\Saves\76561198200551041\Asteroids</Key>
+        <Value xsi:type="xsd:dateTime">2016-11-28T18:54:12.3754757-07:00</Value>
+      </item>
+      <item>
+        <Key xsi:type="xsd:string">C:\Users\ben\AppData\Roaming\SpaceEngineers\Saves\76561198200551041\Quit Blasting Holes in my Ship!</Key>
+        <Value xsi:type="xsd:dateTime">2016-12-12T22:08:42.9292571-07:00</Value>
+      </item>
+      <item>
+        <Key xsi:type="xsd:string">C:\Users\Caden\AppData\Roaming\SpaceEngineers\Saves\76561198348628650\Vendetta Battleship (Vanilla Version)</Key>
+        <Value xsi:type="xsd:dateTime">2016-12-14T00:29:55.155984-07:00</Value>
+      </item>
+      <item>
+        <Key xsi:type="xsd:string">C:\Users\Caden\AppData\Roaming\SpaceEngineers\Saves\76561198348628650\Quit Blasting Holes in my Ship!</Key>
+        <Value xsi:type="xsd:dateTime">2016-12-14T01:45:53.5700375-07:00</Value>
+      </item>
+    </dictionary>
+  </LastLoaded>
+</MyObjectBuilder_LastLoadedTimes>
